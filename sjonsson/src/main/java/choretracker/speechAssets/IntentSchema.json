@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "TheRoomIsIntent",
+      "slots": [
+        {
+          "name": "Room",
+          "type": "LIST_OF_ROOMS"
+        }
+      ]
+    },
+    {
+      "intent": "TheDateIsIntent",
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "WhoDoesWhichChoreIntent"
+    }
+  ]
+}

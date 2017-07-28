@@ -1,0 +1,15 @@
+TheRoomIsIntent  the room is {Room}
+TheRoomIsIntent  {Room}
+TheDateIsIntent  the date is {Date}
+TheDateIsIntent  {Date}
+WhoDoesWhichChoreIntent who does which chore
+WhoDoesWhichChoreIntent tell me the chore list
+WhoDoesWhichChoreIntent which chore does Kristine do
+WhoDoesWhichChoreIntent which chore does Daniel do
+WhoDoesWhichChoreIntent which chore does Katherine do
+WhoDoesWhichChoreIntent tell me the list of chores
+WhoDoesWhichChoreIntent chore list please
+WhoDoesWhichChoreIntent who does what chore
+WhoDoesWhichChoreIntent who does what
+WhoDoesWhichChoreIntent get chore details
+WhoDoesWhichChoreIntent get chore info
